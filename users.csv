@@ -1,0 +1,2 @@
+Username,Displayname,Firstname,Lastname,Password,Container
+testuser,Test User,Test,User,Password1,"OU=Test,OU=Users,DC=contoso,DC=com"

@@ -1,4 +1,4 @@
-# activedirectory
+# activedirectory import
 activedirectory import
 
 ## import-users.ps1
